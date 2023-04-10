@@ -1,0 +1,32 @@
+h1{
+    background-color: cornflowerblue;
+    color: darkorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    line-height: 200%;
+}
+
+h3{
+    font-size:larger;
+    font-style: oblique;
+    text-align: right;
+    line-height:50%;
+    text-decoration:line-through;
+}
+
+/* span{
+    background-color:green;
+    color:gold;
+    display: flex;
+} */
+div{
+    color: blueviolet;
+    width: 400px;
+    height:400px;
+    display:flex;
+   float: left;
+   overflow:scroll;
+}
+/* p{
+    background-color: crimson;
+} */
