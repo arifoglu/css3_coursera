@@ -1,0 +1,51 @@
+
+body{
+    background:rgb(131, 128, 128);
+    margin:10%;
+    font-size:140%;
+}
+
+header{
+    background:#00b7ea ;
+    text-align: center;
+    padding-bottom: 15px;
+}
+h1{
+    color:crimson;
+}
+
+nav{
+    font-variant:small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:120%;
+}
+
+h2{
+    color:rgb(41, 65, 110);
+    background-color:rgb(200, 183, 156);
+}
+
+section{
+    width: 30%;
+    margin-right: 2%;
+    display: inline-block;
+    float: left;
+}
+
+
+summary{
+    font-style: normal;
+}
+
+details{
+    font-style: italic;
+}
+
+footer{
+    background: rgb(65, 133, 153);
+    height: 120px;
+    clear: both;
+}
+img{
+    width: 175px;
+}
