@@ -20,6 +20,26 @@ nav{
     font-size:120%;
 }
 
+/* new attributes was added by me */
+
+
+a:hover{
+    background-color:springgreen;
+}
+a:focus{
+    background-color: coral;
+}
+a :active{
+background-color: yellow;
+}
+
+ul{
+    list-style-type: square;
+}
+
+
+
+
 h2{
     color:rgb(41, 65, 110);
     background-color:rgb(200, 183, 156);
