@@ -20,6 +20,24 @@ nav{
     font-size:120%;
 }
 
+/* i tried to add class and id as a attribute */
+/* . for class # for id  */
+
+.first_link {
+background-color: crimson;
+}
+#different{
+    background-color: violet;
+}
+
+.list {
+    text-transform:lowercase;
+}
+#last_one{
+    text-transform: uppercase;
+}
+
+
 /* new attributes was added by me */
 
 
