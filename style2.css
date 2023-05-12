@@ -28,13 +28,21 @@ background-color: crimson;
 }
 #different{
     background-color: violet;
+    
 }
 
 .list {
     text-transform:lowercase;
+    border: 0.5px solid black;
+    padding: 10px;
+    margin-top: 10px;
+   
 }
 #last_one{
     text-transform: uppercase;
+    border: 1px blueviolet solid;
+    padding-top: 1px;
+    margin-top: 10px;
 }
 
 
@@ -61,6 +69,9 @@ ul{
 h2{
     color:rgb(41, 65, 110);
     background-color:rgb(200, 183, 156);
+    padding: 10px;
+    margin: 5px;
+    border: 3px solid black;
 }
 
 section{
